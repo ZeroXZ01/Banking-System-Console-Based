@@ -1,0 +1,66 @@
+ACCOUNT SUMMARY REPORT
+Generated: 2025-02-26T10:26:07.345590100
+-------------------------
+Total Accounts: 3
+Total Balance: $8400.00
+
+TODAY'S TRANSACTIONS
+Date: 2025-02-26
+-------------------------
+Money Deposited: $9500.00
+Money Withdrawn: $-1100.00
+Total Change: $8400.00
+
+TOP ACCOUNTS REPORT
+Generated: 2025-02-26T10:26:07.354565900
+-------------------------
+Most Active Account: CHK001
+→ Number of Transactions: 3
+
+Highest Balance Account: SAV001
+→ Current Balance: $4000.00
+
+ACCOUNT SUMMARY REPORT
+Generated: 2025-02-26T15:06:00.274507800
+-------------------------
+Total Accounts: 3
+Total Balance: $8400.00
+
+TODAY'S TRANSACTIONS
+Date: 2025-02-26
+-------------------------
+Money Deposited: $9500.00
+Money Withdrawn: $-1100.00
+Total Change: $8400.00
+
+TOP ACCOUNTS REPORT
+Generated: 2025-02-26T15:06:00.282483900
+-------------------------
+Most Active Account: CHK001
+→ Number of Transactions: 3
+
+Highest Balance Account: SAV001
+→ Current Balance: $4000.00
+
+ACCOUNT SUMMARY REPORT
+Generated: 2025-02-26T16:39:14.407743100
+-------------------------
+Total Accounts: 3
+Total Balance: $8400.00
+
+TODAY'S TRANSACTIONS
+Date: 2025-02-26
+-------------------------
+Money Deposited: $9500.00
+Money Withdrawn: $-1100.00
+Total Change: $8400.00
+
+TOP ACCOUNTS REPORT
+Generated: 2025-02-26T16:39:14.415719800
+-------------------------
+Most Active Account: CHK001
+→ Number of Transactions: 3
+
+Highest Balance Account: SAV001
+→ Current Balance: $4000.00
+

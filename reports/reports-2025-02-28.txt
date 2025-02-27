@@ -1,0 +1,22 @@
+ACCOUNT SUMMARY REPORT
+Generated: 2025-02-28T06:20:39.726235300
+-------------------------
+Total Accounts: 3
+Total Balance: $8400.00
+
+TODAY'S TRANSACTIONS
+Date: 2025-02-28
+-------------------------
+Money Deposited: $9500.00
+Money Withdrawn: $-1100.00
+Total Change: $8400.00
+
+TOP ACCOUNTS REPORT
+Generated: 2025-02-28T06:20:39.736209500
+-------------------------
+Most Active Account: CHK001
+→ Number of Transactions: 3
+
+Highest Balance Account: SAV001
+→ Current Balance: $4000.00
+
