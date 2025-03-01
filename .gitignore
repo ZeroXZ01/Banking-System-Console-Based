@@ -63,7 +63,7 @@ buildNumber.properties
 *.lock.db
 
 # Application specific
-application.properties
+#application.properties
 
 
 transactions.txt
